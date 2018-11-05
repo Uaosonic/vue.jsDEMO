@@ -1,2 +1,2 @@
 # vue.jsDEMO
-学习vue.js做的一些demo
+学习vue-cli做的一些demo
